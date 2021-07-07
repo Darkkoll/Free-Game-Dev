@@ -23,8 +23,8 @@ Please remember to always look at the license before using something in your pro
 	- [Multiple Graphic Collections](#multiple-graphic-collections)
 - [Code](#code)
 	- [Ads and Monetization](#ads-and-monetization)
-	- [2D Engines and Frameworks](#2d-engines-and-frameworks)
-	- [3D Engines and Frameworks](#3d-engines-and-frameworks)
+	- [2D Frameworks](#2d-engines-and-frameworks)
+	- [3D Frameworks](#3d-engines-and-frameworks)
    	- [Game Source Code](#game-source-code)
 	- [Modules and Additional API](#modules-and-additional-api)
 - [Design](#design)
@@ -141,7 +141,7 @@ Code
 * [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
 * [Corona SDK](https://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
 * [Dear Imgui](https://github.com/ocornut/imgui/) - A bloat-free immediate mode GUI for C++ with minimal dependencies. :o2:
-* [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
+* [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor. :o2:
 * [EasyRPG](https://easyrpg.org/) - role playing game creation tool compatible with RPG Maker 2000/2003 games :free:
 * [E.B.U.R.P](http://pents90.github.io/eburp/) - The Eight-Bit Universal Role Playing Engine :o2:
 * [Ebiten](https://ebiten.org/) - A dead simple 2D game library in Go. :o2:
@@ -342,6 +342,7 @@ Engines
 * [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine. :o2:
 * [Lumberyard](https://aws.amazon.com/pt/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated :free:
 * [LumixEngine](https://github.com/nem0/LumixEngine) - 3D Game engine built on C++. :o2:
+* [Open 3D Engine](https://docs.o3de.org/) Lumberyard has been open sourced !!! :o2:
 * [Unity 3D](http://unity3d.com/) - A development engine for the creation of 2D and 3D games and interactive content. :triangular_flag_on_post:
 * [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games. :triangular_flag_on_post:
 
