@@ -572,11 +572,11 @@ Tools
 * [ArrayPainter](http://arraypainter.com/) - Array Painter is the easiest and fastest way to make 2D arrays ready for copy pasting into your own program. :free:
 * [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) - LDtk is an open-source 2D level editor for indie devs, with a strong focus on user-friendliness. :o2:
 * [OGMO Editor](https://ogmo-editor-3.github.io/)- generic level editor. :o2:
-* [Overlap2D](http://overlap2d.com/) - a 2D level and UI editor with an engine agnostic philosophy. :o2: <!--TODO: verify the wabsite end clean the secondary at the bottom-->
+* [Overlap2D](http://overlap2d.com/) - a 2D level and UI editor with an engine agnostic philosophy. :o2: <!--TODO: verify the wabsite end clean the secondary commented at the bottom-->
 * [Mappy](http://tilemap.co.uk/mappy.php) - Free tilemap editor. :free:
 * [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor. :free:
 
-* [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) - a 2D level and UI editor with an engine agnostic philosophy. :o2:
+<!--* [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) - a 2D level and UI editor with an engine agnostic philosophy. :o2:-->
 
 ### Vector/Image Editor
 
